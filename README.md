@@ -42,3 +42,27 @@ Matplotlib, Python, Pandas, Cohort Analysis, Product Metrics, Unit Economy
 Using the data of the online store, prioritize the hypotheses, evaluate the results of A / B testing by various methods
 ### Applied Tools and Concepts
 A / B testing, Matplotlib, Python, Pandas, SciPy, Testing Statistical Hypotheses
+
+## Project №8 "Research of the catering market in Moscow for making a decision about opening a new cafe"
+### Description
+Public catering market research based on open data
+### Applied Tools and Concepts
+Pandas, Seaborn, Plotly, Python, Data Visualization
+
+## Project №9 "Analysis of user behavior in a mobile application"
+### Description
+Analyze the sales funnel and evaluate the results of A/A/B testing based on the usage data of the mobile application for selling food
+### Applied Tools and Concepts
+A/B testing, Pandas, Plotly, Matplotlib, Python, Seaborn, Testing Statistical Hypotheses, Data Visualization, Product Metrics, Event Analytics
+
+## Project №11 "Predicting the likelihood of user churn for a fitness center chain"
+### Description
+Based on data about visitors of the fitness center chain, to predict the likelihood of user churn in the next month. To form user portraits using clustering
+### Applied Tools and Concepts
+Matplotlib, Pandas, Scikit-learn, Python, Seaborn, Clustering, Machine Learning
+
+## Project №12 "Conduct a full analysis of the product range for an online store of goods for home"
+### Description
+Determine which products are included in the main and additional assortment in order to offer customers additional products and optimize purchases
+### Applied Tools and Concepts
+Matplotlib, Pandas, Python, Data Visualization, Exploratory Data Analysis, Data Preprocessing, Lemmatization, Testing Statistical Hypotheses
